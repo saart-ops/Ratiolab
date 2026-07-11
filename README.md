@@ -10,12 +10,11 @@ so you can check the facts yourself.
 
 Each video has its own folder inside `videos/`. Click any folder to see:
 - **README.md** — human-readable summary of claims and sources
-- **case_file.json** — full structured data (all sources + AI verdicts)
 - **sources/** — the actual downloaded documents (SEC filings, court records)
 
 ## About the Data
 
-Research is compiled automatically by the RatioLab Research Bot using:
+Research is compiled using:
 - [SEC EDGAR](https://efts.sec.gov) — public company filings (public domain)
 - [CourtListener](https://www.courtlistener.com) — court opinions (CC BY-SA 4.0)
 - [YouTube Data API](https://developers.google.com/youtube) — video search
