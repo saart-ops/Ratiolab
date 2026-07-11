@@ -1,6 +1,6 @@
 {
   "topic": "egg producers price fixing settlement",
-  "generated_at": "2026-07-11T16:23:53.524988+00:00",
+  "generated_at": "2026-07-11T16:51:43.610220+00:00",
   "sources_found": {
     "sec_filings": [
       {
@@ -59,7 +59,63 @@
         "local_path": "C:\\Users\\saart\\Downloads\\ratiolab-research-bot\\output\\downloads\\egg_producers_price_fixing_settlement\\sec_filings\\c86638e10vkza.txt"
       }
     ],
-    "court_records": [],
+    "court_records": [
+      {
+        "source_type": "court_record",
+        "case_name": "In re Processed Egg Products Antitrust Litigation",
+        "court": "District Court, E.D. Pennsylvania",
+        "date_filed": "2015-11-12",
+        "snippet": "\n*176AMENDED MEMORANDUM1\nGENE E.K. PRATTER, District Judge\nThe nation\u2019s major egg producers are accused by those who purchase eggs directly from them of conspiring to control and limit the supply of eggs and thereby increase the prices of eggs. The claims allege that the Defendants accomplished this objective through three ",
+        "url": "https://www.courtlistener.com/opinion/8790775/in-re-processed-egg-products-antitrust-litigation/",
+        "download_url": null,
+        "text_content": "\n*176AMENDED MEMORANDUM1\nGENE E.K. PRATTER, District Judge\nThe nation\u2019s major egg producers are accused by those who purchase eggs directly from them of conspiring to control and limit the supply of eggs and thereby increase the prices of eggs. The claims allege that the Defendants accomplished this objective through three ",
+        "local_path": "C:\\Users\\saart\\Downloads\\ratiolab-research-bot\\output\\downloads\\egg_producers_price_fixing_settlement\\court_records\\In_re_Processed_Egg_Products_Antitrust_Litigation_e8e6ebf7.txt"
+      },
+      {
+        "source_type": "court_record",
+        "case_name": "In re Processed Egg Products Antitrust Litigation",
+        "court": "District Court, E.D. Pennsylvania",
+        "date_filed": "2011-12-20",
+        "snippet": "\n\n*293\nMEMORANDUM\n\nGENE E.K. PRATTER, District Judge.\nPlaintiffs have moved for the remand of this action for lack of subject matter jurisdiction pursuant to 28 U.S.C. \u00a7 1447(c). For the reasons that follow, the Court grants the motion.\n\nI. Background\n\nPlaintiffs are six direct purchasers of e",
+        "url": "https://www.courtlistener.com/opinion/8712050/in-re-processed-egg-products-antitrust-litigation/",
+        "download_url": null,
+        "text_content": "\n\n*293\nMEMORANDUM\n\nGENE E.K. PRATTER, District Judge.\nPlaintiffs have moved for the remand of this action for lack of subject matter jurisdiction pursuant to 28 U.S.C. \u00a7 1447(c). For the reasons that follow, the Court grants the motion.\n\nI. Background\n\nPlaintiffs are six direct purchasers of e",
+        "local_path": "C:\\Users\\saart\\Downloads\\ratiolab-research-bot\\output\\downloads\\egg_producers_price_fixing_settlement\\court_records\\In_re_Processed_Egg_Products_Antitrust_Litigation_fffcf05a.txt"
+      },
+      {
+        "source_type": "court_record",
+        "case_name": "In re Processed Egg Products Antitrust Litigation",
+        "court": "District Court, E.D. Pennsylvania",
+        "date_filed": "2011-10-19",
+        "snippet": "\n\n*115\nMEMORANDUM OPINION\n\nTIMOTHY R. RICE, United States Magistrate Judge.\nDirect purchaser plaintiffs (\u201cPlaintiffs\u201d) seek to compel defendant United Egg Producers, Inc. (\u201cUEP\u201d) to produce or remove from sequestration certain documents and information involving defendant Sparboe Farms (\u201cSparboe\u201d).1 UEP maintains t",
+        "url": "https://www.courtlistener.com/opinion/8780288/in-re-processed-egg-products-antitrust-litigation/",
+        "download_url": null,
+        "text_content": "\n\n*115\nMEMORANDUM OPINION\n\nTIMOTHY R. RICE, United States Magistrate Judge.\nDirect purchaser plaintiffs (\u201cPlaintiffs\u201d) seek to compel defendant United Egg Producers, Inc. (\u201cUEP\u201d) to produce or remove from sequestration certain documents and information involving defendant Sparboe Farms (\u201cSparboe\u201d).1 UEP maintains t",
+        "local_path": "C:\\Users\\saart\\Downloads\\ratiolab-research-bot\\output\\downloads\\egg_producers_price_fixing_settlement\\court_records\\In_re_Processed_Egg_Products_Antitrust_Litigation_b17b77a0.txt"
+      },
+      {
+        "source_type": "court_record",
+        "case_name": "In re Processed Egg Products Antitrust Litigation",
+        "court": "District Court, E.D. Pennsylvania",
+        "date_filed": "2012-07-16",
+        "snippet": "\n\n*251\nMEMORANDUM\n\nGENE E.K. PRATTER, District Judge.\nDirect Purchaser Plaintiffs move the Court for final approval of a proposed settlement agreement between the Plaintiffs and Defendants Moark, LLC, Norco Ranch, Inc., and *252Land O\u2019Lakes, Inc. (collectively, \u201cMoark\u201d).",
+        "url": "https://www.courtlistener.com/opinion/8782131/in-re-processed-egg-products-antitrust-litigation/",
+        "download_url": null,
+        "text_content": "\n\n*251\nMEMORANDUM\n\nGENE E.K. PRATTER, District Judge.\nDirect Purchaser Plaintiffs move the Court for final approval of a proposed settlement agreement between the Plaintiffs and Defendants Moark, LLC, Norco Ranch, Inc., and *252Land O\u2019Lakes, Inc. (collectively, \u201cMoark\u201d).",
+        "local_path": "C:\\Users\\saart\\Downloads\\ratiolab-research-bot\\output\\downloads\\egg_producers_price_fixing_settlement\\court_records\\In_re_Processed_Egg_Products_Antitrust_Litigation_2777c99c.txt"
+      },
+      {
+        "source_type": "court_record",
+        "case_name": "In re Processed Egg Products Antitrust Litigation",
+        "court": "District Court, E.D. Pennsylvania",
+        "date_filed": "2012-03-20",
+        "snippet": "\n\n*875\nOPINION\n\nGENE E.K. PRATTER, District Judge.\n\nI. Introduction\n\nIndirect purchasers1 of domestic eggs and egg products charge producers of those goods, and the producers\u2019 trade groups, with conspiring to manipulate the supply of, and thereby fix prices for, domestically-sold eggs an",
+        "url": "https://www.courtlistener.com/opinion/8714227/in-re-processed-egg-products-antitrust-litigation/",
+        "download_url": null,
+        "text_content": "\n\n*875\nOPINION\n\nGENE E.K. PRATTER, District Judge.\n\nI. Introduction\n\nIndirect purchasers1 of domestic eggs and egg products charge producers of those goods, and the producers\u2019 trade groups, with conspiring to manipulate the supply of, and thereby fix prices for, domestically-sold eggs an",
+        "local_path": "C:\\Users\\saart\\Downloads\\ratiolab-research-bot\\output\\downloads\\egg_producers_price_fixing_settlement\\court_records\\In_re_Processed_Egg_Products_Antitrust_Litigation_fe5058a1.txt"
+      }
+    ],
     "videos": [
       {
         "source_type": "video",
