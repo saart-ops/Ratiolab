@@ -1,0 +1,173 @@
+{
+  "topic": "egg producers price fixing settlement",
+  "generated_at": "2026-07-11T16:23:53.524988+00:00",
+  "sources_found": {
+    "sec_filings": [
+      {
+        "source_type": "sec_filing",
+        "company": "LAND O LAKES INC  (CIK 0001032562)",
+        "form": "10-Q",
+        "filed": "2003-11-14",
+        "cik": "0001032562",
+        "accession": "0000950134-03-015404:c80941e10vq.txt",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001032562",
+        "download_url": "https://www.sec.gov/Archives/edgar/data/1032562/000095013403015404/c80941e10vq.txt",
+        "local_path": "C:\\Users\\saart\\Downloads\\ratiolab-research-bot\\output\\downloads\\egg_producers_price_fixing_settlement\\sec_filings\\c80941e10vq.txt"
+      },
+      {
+        "source_type": "sec_filing",
+        "company": "LAND O LAKES INC  (CIK 0001032562)",
+        "form": "10-Q",
+        "filed": "2004-08-16",
+        "cik": "0001032562",
+        "accession": "0000950134-04-012390:c87173a2e10vqza.txt",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001032562",
+        "download_url": "https://www.sec.gov/Archives/edgar/data/1032562/000095013404012390/c87173a2e10vqza.txt",
+        "local_path": "C:\\Users\\saart\\Downloads\\ratiolab-research-bot\\output\\downloads\\egg_producers_price_fixing_settlement\\sec_filings\\c87173a2e10vqza.txt"
+      },
+      {
+        "source_type": "sec_filing",
+        "company": "LAND O LAKES INC  (CIK 0001032562)",
+        "form": "10-Q",
+        "filed": "2004-05-13",
+        "cik": "0001032562",
+        "accession": "0000950134-04-007494:c85492e10vq.txt",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001032562",
+        "download_url": "https://www.sec.gov/Archives/edgar/data/1032562/000095013404007494/c85492e10vq.txt",
+        "local_path": "C:\\Users\\saart\\Downloads\\ratiolab-research-bot\\output\\downloads\\egg_producers_price_fixing_settlement\\sec_filings\\c85492e10vq.txt"
+      },
+      {
+        "source_type": "sec_filing",
+        "company": "LAND O LAKES INC  (CIK 0001032562)",
+        "form": "10-K",
+        "filed": "2004-03-30",
+        "cik": "0001032562",
+        "accession": "0000950134-04-004408:c83905e10vk.txt",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001032562",
+        "download_url": "https://www.sec.gov/Archives/edgar/data/1032562/000095013404004408/c83905e10vk.txt",
+        "local_path": "C:\\Users\\saart\\Downloads\\ratiolab-research-bot\\output\\downloads\\egg_producers_price_fixing_settlement\\sec_filings\\c83905e10vk.txt"
+      },
+      {
+        "source_type": "sec_filing",
+        "company": "LAND O LAKES INC  (CIK 0001032562)",
+        "form": "10-K",
+        "filed": "2004-08-16",
+        "cik": "0001032562",
+        "accession": "0000950134-04-012389:c86638e10vkza.txt",
+        "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001032562",
+        "download_url": "https://www.sec.gov/Archives/edgar/data/1032562/000095013404012389/c86638e10vkza.txt",
+        "local_path": "C:\\Users\\saart\\Downloads\\ratiolab-research-bot\\output\\downloads\\egg_producers_price_fixing_settlement\\sec_filings\\c86638e10vkza.txt"
+      }
+    ],
+    "court_records": [],
+    "videos": [
+      {
+        "source_type": "video",
+        "title": "$3.3M Fine for Alleged Egg Price Fixing Is a Tiny Fraction of Suppliers\u2019 Record Profits",
+        "channel": "Institute for Local Self-Reliance",
+        "published": "2026-07-10T18:54:24Z",
+        "video_id": "QM-X_7cbjEI",
+        "url": "https://www.youtube.com/watch?v=QM-X_7cbjEI"
+      },
+      {
+        "source_type": "video",
+        "title": "Egg producers reach settlement over price-fixing complaint",
+        "channel": "NPR",
+        "published": "2026-07-03T13:00:35Z",
+        "video_id": "LhXakA4CzdA",
+        "url": "https://www.youtube.com/watch?v=LhXakA4CzdA"
+      },
+      {
+        "source_type": "video",
+        "title": "Egg producers will pay $3.3M and donate 53M eggs to settle price-fixing claims",
+        "channel": "Associated Press",
+        "published": "2026-07-08T02:30:29Z",
+        "video_id": "5uyIrp-3oRA",
+        "url": "https://www.youtube.com/watch?v=5uyIrp-3oRA"
+      },
+      {
+        "source_type": "video",
+        "title": "Settlement reached on egg prices",
+        "channel": "ABC News",
+        "published": "2026-07-01T14:26:34Z",
+        "video_id": "AtlrO3n7Ftg",
+        "url": "https://www.youtube.com/watch?v=AtlrO3n7Ftg"
+      },
+      {
+        "source_type": "video",
+        "title": "Egg Producers Settle DOJ Lawsuit for Price Fixing",
+        "channel": "The Center Square",
+        "published": "2026-07-07T16:00:22Z",
+        "video_id": "vchxrQaA95k",
+        "url": "https://www.youtube.com/watch?v=vchxrQaA95k"
+      }
+    ],
+    "archival": []
+  },
+  "claim_verification": [
+    {
+      "claim": "The DOJ and 17 state attorneys general filed a civil antitrust lawsuit against three of the nation's largest egg producers in 2026.",
+      "matches": []
+    },
+    {
+      "claim": "The three companies named in the lawsuit are Cal-Maine Foods, Versova, and Hickman's Egg Ranch.",
+      "matches": []
+    },
+    {
+      "claim": "The producers allegedly coordinated their bidding on the Egg Clearinghouse Inc. platform to artificially inflate prices.",
+      "matches": []
+    },
+    {
+      "claim": "The manipulation targeted Urner Barry, a market reporting company whose benchmark prices are used in contracts throughout the egg industry.",
+      "matches": []
+    },
+    {
+      "claim": "The alleged price coordination took place between June 2022 and March 2025.",
+      "matches": []
+    },
+    {
+      "claim": "The three companies agreed to collectively pay $3.3 million to the participating states.",
+      "matches": []
+    },
+    {
+      "claim": "The $3.3 million fine was described as a tiny fraction of the profits made during the price-fixing period.",
+      "matches": []
+    },
+    {
+      "claim": "The producers agreed to donate 53 million eggs to food banks and nonprofit organizations as part of the settlement.",
+      "matches": []
+    },
+    {
+      "claim": "None of the three companies admitted any wrongdoing or liability as part of the settlement.",
+      "matches": []
+    },
+    {
+      "claim": "The settlement includes a five-year compliance term requiring antitrust compliance programs.",
+      "matches": []
+    },
+    {
+      "claim": "The companies are required to appoint a DOJ-approved compliance officer under the settlement terms.",
+      "matches": []
+    },
+    {
+      "claim": "Cal-Maine Foods is the largest producer and distributor of fresh shell eggs in the United States.",
+      "matches": []
+    },
+    {
+      "claim": "Cal-Maine Foods reported net income of approximately $758 million in fiscal year 2023 during the period of record egg prices.",
+      "matches": []
+    },
+    {
+      "claim": "Cal-Maine Foods reported record net income of approximately $1.2 billion in fiscal year 2025.",
+      "matches": []
+    },
+    {
+      "claim": "The companies claimed that price surges were driven by avian influenza outbreaks, supply disruptions, and inflation, not coordination.",
+      "matches": []
+    },
+    {
+      "claim": "Egg producers reported record profits during the price-fixing period.",
+      "matches": []
+    }
+  ]
+}
