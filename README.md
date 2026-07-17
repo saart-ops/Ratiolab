@@ -18,8 +18,6 @@ Research is compiled using:
 - [SEC EDGAR](https://efts.sec.gov) — public company filings (public domain)
 - [CourtListener](https://www.courtlistener.com) — court opinions (CC BY-SA 4.0)
 - [YouTube Data API](https://developers.google.com/youtube) — video search
-- [Internet Archive](https://archive.org) — archival documents
-- [Google Gemini](https://ai.google.dev) — AI claim verification
 
 ## License
 
